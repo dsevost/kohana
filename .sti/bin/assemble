@@ -8,4 +8,4 @@ else
 fi
 
 [ -d application/cache ] && chmod -R 777 application/cache
-[ -d application/logs ] && chmod -R 777 src/application/logs
+[ -d application/logs ] && chmod -R 777 application/logs
